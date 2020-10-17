@@ -49,4 +49,3 @@ function render(){
     $desc.text(`Weather: ${weatherData.weather[0]["description"]}`);
 }
 
-//+ 'q=Granby&appid=' + API_KEY
